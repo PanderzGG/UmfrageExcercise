@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Geschützter Bereich"
+AuthUserFile "C:/xampp/htdocs/umfrage/ergebnisse/.htpasswd"
+Require valid-user
